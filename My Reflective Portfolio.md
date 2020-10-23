@@ -4,11 +4,11 @@
 
 ### What have I learnt this week?
 
-*This week* I got introduced into the world of systems for this subject, specifically the complex systems that are designed and operated by humans. I learnt about how systems are comprised of multiple elements or parts-and how they are imperative into making the system functional. I also learnt that there are 3 types of systems
+*This week* I started my first term at UTS. So excited to learn new things.  I got introduced into the world of systems for the subject-41189 Introduction to Human-centred Complex Systems. I learnt about how systems are comprised of multiple elements or parts-and how they are imperative into making the system functional. I also learnt that there are 3 types of systems:
 
 - Open which are systems that can cross boundaries to their surrounding environment when transferring energy and matter e.g. ecosystems
 - Closed which are systems that send out energy but not matter to their surrounding environment e.g.solar systems
-- Isolated are systems that have absolutely no iteractions beyond their boundary layer e.g. controlled laboratory experiments
+- Isolated are systems that have absolutely no interactions beyond their boundary layer e.g. controlled laboratory experiments
 
 ### What do I 'now know' that I did not before?
 
@@ -17,15 +17,15 @@ losing its essence. You can't have one without the other. Everything is interdep
 
 ### What insights have I gained?
 
-That anything and anyone is a system within themselves. There's a method to the madness. There are so many complexities that contribute a lot to the existence of what we experience on a daily basis. A lot of it is systematic through design such as the microprocessors used in the electronics we use-they're very intricate and complicated as a result, but then there's been a lot of dynamics at play as there are many things we can't design and control like the economy-but we still need it. 
+That anything and anyone is a system within themselves. There's a method to the madness. There are so many complexities that contribute a lot to the existence of what we experience on a daily basis. A lot of it is systematic through design such as the microprocessors used in the electronics we use-they're very intricate and complicated as a result, but then there's been a lot of dynamics at play as there are many things we can't design and control like the economy-but we still need it. If there is a capacity to self-organize, and if emergence manifests without central control, then we get Complex Adaptive Systems. Systems involving humans tend to be such systems, which isn’t surprising. 
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-For me, my perceived strengths are that I have an insatiable curiosity to learn the behind the scenes processes of how things and people operate. There is always more to the story than what gets shown to the world. My perceived weaknesses are that learning will never truly be finished as new things, people and concepts will always keep on coming as it should be. The work is never truly done-you just barrel ahead to the next mission or task once you wrap up the previous. Learning like life is never easy, but there is always a way to keep on going-and that I need t strengthen my resolve to keep up with it.
+For me, my perceived strengths are that I have an insatiable curiosity to learn the behind the scenes processes of how things and people operate. There is always more to the story than what gets shown to the world. My perceived weaknesses are that learning will never truly be finished as new things, people and concepts will always keep on coming as it should be. The work is never truly done-you just barrel ahead to the next mission or task once you wrap up the previous. Learning like life is never easy, but there is always a way to keep on going-and that I need to strengthen my resolve to keep up with it.
 
 ### What were the challenges I encountered/observed and how well (did I/my team) handle them? 
 
-Since this is the first week, I haven't faced any challenges as of yet-but I am aware I will be met with them as this term progresses. But I will handle them by starting tasks early, and looking at resources online and asking my classmates, and the lecturer/tutors for help when I need it, as well as learning more in my own time.
+Since this is the first week, I haven't faced any challenges as of yet-but I am aware I will be met with them as this term progresses. But I will handle them by starting tasks early, and looking at resources online and asking my classmates, and the lecturer/tutors for help when I need it, as well as self-learning.
 
 ### What would I do better next time and with what ancitipated results?
 
